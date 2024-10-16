@@ -1,0 +1,2 @@
+# hqserverchecker
+hq server checker
